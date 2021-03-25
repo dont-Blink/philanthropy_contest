@@ -4,6 +4,8 @@ You will need Python 3, selenium, Chrome, and the selenium Chrome driver for thi
 For selenium:
 pip install selenium
 
+If you're in PyCharm and getting the error that selenium cannot be found: File->Settings->Project->Project Interpreter->hit the little plus->search for Selenium->install it
+
 For selenium Chrome driver:
 https://sites.google.com/a/chromium.org/chromedriver/downloads
 *note that you may need to add the driver to your PATH
